@@ -1,4 +1,5 @@
 VueFlix - Seu Catálogo de Filmes Personalizado com Vue.js ✨
+https://github.com/renatoryu/vueflix/blob/main/src/assets/logo.png
 
 VueFlix é um projeto prático desenvolvido durante o curso de trilha básica de Vue.js, com o objetivo de aplicar os conceitos aprendidos e criar uma aplicação interativa e funcional.
 
